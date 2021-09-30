@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
+Also: 
+Bootstrap  [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) v5.1.1,
+
+# Implementation
+
+[Angular Material ](https://material.angular.io/guide/getting-started) version 12, 
+Bootstrap  [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) v5.1.1
+
+# BackEnd
+
+NodeJs, MongoDB
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
