@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+.fix-header {
+    .topbar {
+        position: fixed;
+        width: 100%;
+        box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
+    }
+    .page-wrapper {
+        padding-top: 70px;
+    }
+    .right-side-panel {
+        top: 70px;
+        height: calc(100% - 70px); 
+    }
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.center{
+    text-align: center;
+}
