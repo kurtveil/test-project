@@ -67,7 +67,7 @@ export class UsuarioService {
 
   logout(): void {
 
-    localStorage.removeItem('menu');
+    // localStorage.removeItem('menu');
     localStorage.removeItem('token');
 
     this.auth2.signOut().then( () => {
