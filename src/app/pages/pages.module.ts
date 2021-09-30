@@ -23,7 +23,7 @@ import { MatInputModule } from '@angular/material/input';
 @NgModule({
   declarations: [
     PagesComponent,
-    UsersComponent
+    UsersComponent,
   ],
   imports: [
     CommonModule,
